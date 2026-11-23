@@ -8,7 +8,7 @@ I enjoy making systems easier to operate: repeatable configuration, useful monit
 
 ## What I work with
 
-- **Infrastructure & automation:** Linux, Ansible, Bash, Docker, Kubernetes/K3s, Helm
+- **Infrastructure & automation:** Linux, Ansible, Bash, Docker, Kubernetes/K3s, Helm, Terraform
 - **Delivery:** GitLab CI/CD, GitHub Actions, GitOps workflows
 - **Observability:** Prometheus, Grafana, Elasticsearch, Kibana, Filebeat
 - **Data services & availability:** Kafka KRaft, PostgreSQL, Patroni, etcd, HAProxy
